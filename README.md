@@ -22,9 +22,10 @@
 
 ## 🔗 روابط ومشاريعي
 🏛️ [مدرسة السنبلاوين التقنية V23](https://github.com/Abo-El-Fotouh/Sanblawin-Tech-School-V23)
-📱 [منصة خدمات الرواد الذكية](https://github.com/Abo-El-Fotouh/Smart-Pioneer-Services-v23)
-🌐 [تطبيقي الأول على Pi App Studio](https://cbeefadfd0820.pinet.com)
-🌐 [تطبيقي الثاني على Pi App Studio](https://ccfcecee0241.pinet.com)
+📱 [منصة خدمات الرواد الذكية]    
+https://ccfcecee0241.pinet.com 
+🌐 [تطبيقي الأول على Pi App Studio  . https://ccfcecee0241.pinet.com
+🌐 [تطبيقي الثاني على Pi App Studio] . https://cbeefadfd0820.pinet.com
 🌐 **البوابة الرسمية:** [pinet.com](https://pinet.com)
 
 ---
