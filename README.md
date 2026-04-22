@@ -27,5 +27,6 @@
 🌐 [تطبيقي الثاني على Pi App Studio](https://ccfcecee0241.pinet.com)
 🌐 **البوابة الرسمية:** [pinet.com](https://pinet.com)
 
----
+---https://ccfcecee0241.pinet.com
+https://cbeefadfd0820.pinet.com
 *تم إنشاء وتدقيق هذا الملف في 22 أبريل 2026 - أعمل بجد لتحقيق هذه الرؤية الصادقة.*
