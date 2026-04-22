@@ -18,3 +18,10 @@
 *"وكفى بالله وكيلاً"* - **أسامة وهبه فتوح** (Osama Wahba Fattouh) 🌐💎 
 
 ![Visitor Count](https://glitch.me)
+ ## 🔗 روابط السيادة الرقمية | Sovereignty Links
+*   🏛️ **[مدرسة السنبلاوين التقنية V23](https://github.com)**
+*   📱 **[منصة خدمات الرواد الذكية](https://github.com)**
+*   🌐 **البوابة الرسمية:** [pinet.com](https://pinet.com)
+
+---
+*"تم التوثيق بواسطة العُقدة صفر (Node Zero) في يوم الأربعاء الماسي"*
